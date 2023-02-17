@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Directorate of Traffic and Road Safety"
+    },
+    {
+        "id": 2,
+        "name": "Directorate of Information & Communication Technology"
+    },
+    {
+        "id": 3,
+        "name": "Directorate of Human Rights and Legal Services"
+    },
+    {
+        "id": 4,
+        "name": "Directorate of Police Fire Prevention and Rescue Services"
+    },
+    {
+        "id": 5,
+        "name": "Directorate of Police Health Services"
+    },
+    {
+        "id": 6,
+        "name": "Directorate of Forensic Services"
+    },
+    {
+        "id": 7,
+        "name": "Directorate of Criminal Investigations"
+    },
+    {
+        "id": 8,
+        "name": "Directorate Crime Intelligence"
+    },
+    {
+        "id": 9,
+        "name": "Directorate of Human Resource Administration & Management"
+    },
+    {
+        "id": 10,
+        "name": "Directorate of Human Resource Development"
+    },
+    {
+        "id": 11,
+        "name": "Directorate of Interpol and International Relations"
+    },
+    {
+        "id": 12,
+        "name": "Directorate of Kampala Metropolitan Police"
+    },
+    {
+        "id": 13,
+        "name": "Directorate of Logistics and Engineering"
+    },
+    {
+        "id": 14,
+        "name": "Directorate of Operations"
+    },
+    {
+        "id": 15,
+        "name": "Directorate of Chief Political Commissariat"
+    },
+    {
+        "id": 16,
+        "name": "Directorate of Research, Planning & Development"
+    },
+    {
+        "id": 17,
+        "name": "Directorate of Welfare, Production and Sports"
+    },
+    {
+        "id": 18,
+        "name": "Directorate of Counter terrorism"
+    }
+]

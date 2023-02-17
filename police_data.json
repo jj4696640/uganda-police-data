@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "name": "Kampala Metropolitan Police South",
+        "value": "KMP SOUTH"
+    },
+    {
+        "id": "2",
+        "name": "Kampala Metropolitan Police North",
+        "value": "KMP NORTH"
+    },
+    {
+        "id": "3",
+        "name": "Kampala Metropolitan Police East",
+        "value": "KMP EAST"
+    },
+    {
+        "id": "4",
+        "name": "Busoga East",
+        "value": "BUSOGA EAST"
+    },
+    {
+        "id": "5",
+        "name": "Busoga North",
+        "value": "BUSOGA NORTH"
+    },
+    {
+        "id": "6",
+        "name": "Kiira",
+        "value": "KIIRA"
+    },
+    {
+        "id": "7",
+        "name": "Elgon",
+        "value": "ELGON"
+    },
+    {
+        "id": "8",
+        "name": "BukedI",
+        "value": "BUKEDI"
+    },
+    {
+        "id": "9",
+        "name": "East Kyoga",
+        "value": "EAST KYOGA"
+    },
+    {
+        "id": "10",
+        "name": "Mt. Moroto",
+        "value": "MT. MOROTO"
+    },
+    {
+        "id": "11",
+        "name": "Kidepo",
+        "value": "KIDEPO"
+    }, 
+    {
+        "id": "12",
+        "name": "North West Nile",
+        "value": "NORTH WEST NILE"
+    },
+    {
+        "id": "13",
+        "name": "West Nile",
+        "value": "WEST NILE"
+    },
+    {
+        "id": "14",
+        "name": "Aswa River",
+        "value": "ASWA RIVER"
+    },
+    {
+        "id": "15",
+        "name": "North Kyoga",
+        "value": "NORTH KYOGA"
+    },
+    {
+        "id": "16",
+        "name": "Katonga",
+        "value": "KATONGA"
+    },
+    {
+        "id": "17",
+        "name": "Wamala",
+        "value": "WAMALA"
+    },
+    {
+        "id": "18",
+        "name": "Sezibwa",
+        "value": "SEZIBWA"
+    },
+    {
+        "id": "19",
+        "name": "Albert",
+        "value": "ALBERT"
+    },
+    {
+        "id": "20",
+        "name": "Rwizi",
+        "value": "RWIZI"
+    },
+    {
+        "id": "21",
+        "name": "Greater Bushenyi",
+        "value": "GREATER BUSHENYI"
+    }, 
+    {
+        "id": "22",
+        "name": "Kigezi",
+        "value": "KIGEZI"
+    },
+    {
+        "id": "23",
+        "name": "Greater Masaka",
+        "value": "GREATER MASAKA"
+    },
+    {
+        "id": "24",
+        "name": "Savannah",
+        "value": "SAVANNAH"
+    },
+    {
+        "id": "25",
+        "name": "Sipi",
+        "value": "SIPI"
+    },
+    {
+        "id": "26",
+        "name": "Rwenzori East",
+        "value": "RWENZORI EAST"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Inspector General"
+    },
+    {
+        "id": "2",
+        "name": "Deputy Inspector General"
+    },
+    {
+        "id": "3",
+        "name": "Assistant Inspector General"
+    },
+    {
+        "id": "4",
+        "name": "Senior Commissioner"
+    },
+    {
+        "id": "5",
+        "name": "Commissioner"
+    },
+    {
+        "id": "6",
+        "name": "Senior Superintendent"
+    },
+    {
+        "id": "7",
+        "name": "Superintendent"
+    },
+    {
+        "id": "8",
+        "name": "Assistant Superintendent"
+    },
+    {
+        "id": "9",
+        "name": "Cadet Assistant Superintendent"
+    },
+    {
+        "id": "10",
+        "name": "Inspector"
+    },
+    {
+        "id": "11",
+        "name": "Assistant Inspector"
+    },
+    {
+        "id": "12",
+        "name": "Head Constable Major (Scraped)"
+    },
+    {
+        "id": "13",
+        "name": "Station Sergeant Constable (Scraped)"
+    },
+    {
+        "id": "14",
+        "name": "Sergeant"
+    },
+    {
+        "id": "15",
+        "name": "Corporal"
+    },
+    {
+        "id": "16",
+        "name": "Constable"
+    },
+    {
+        "id": "17",
+        "name": "Recruited Constable"
+    },
+    {
+        "id": "18",
+        "name": "Special Constable"
+    }
+]

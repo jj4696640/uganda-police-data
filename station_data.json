@@ -1,0 +1,546 @@
+[
+  {
+    "id": "1",
+    "name": "KATWE"
+  },
+  {
+    "id": "2",
+    "name": "KAJJANSI"
+  },
+  {
+    "id": "3",
+    "name": "NSANGI"
+  },
+  {
+    "id": "4",
+    "name": "KABALAGALA"
+  },
+  {
+    "id": "5",
+    "name": "ENTEBBE"
+  },
+  {
+    "id": "6",
+    "name": "CPS KAMPALA"
+  },
+  {
+    "id": "7",
+    "name": "KAWEMPE"
+  },
+  {
+    "id": "8",
+    "name": "OLD KAMPALA"
+  },
+  {
+    "id": "9",
+    "name": "WANDEGEYA"
+  },
+  {
+    "id": "10",
+    "name": "WAKISO"
+  },
+  {
+    "id": "11",
+    "name": "KASANGATI"
+  },
+  {
+    "id": "12",
+    "name": "KAKIRI"
+  },
+  {
+    "id": "13",
+    "name": "JINJA ROAD"
+  },
+  {
+    "id": "14",
+    "name": "KIRA ROAD"
+  },
+  {
+    "id": "15",
+    "name": "KIRA DIVISION"
+  },
+  {
+    "id": "16",
+    "name": "MUKONO"
+  },
+  {
+    "id": "17",
+    "name": "NAGALAMA"
+  },
+  {
+    "id": "18",
+    "name": "IGANGA"
+  },
+  {
+    "id": "19",
+    "name": "NAMAYINGO"
+  },
+  {
+    "id": "20",
+    "name": "MAYUGE"
+  },
+  {
+    "id": "21",
+    "name": "BUGIRI"
+  },
+  {
+    "id": "22",
+    "name": "NAMUTUMBA"
+  },
+  {
+    "id": "23",
+    "name": "BUYENDE"
+  },
+  {
+    "id": "24",
+    "name": "KAMULI"
+  },
+  {
+    "id": "25",
+    "name": "KALIRO"
+  },
+  {
+    "id": "26",
+    "name": "LUUKA"
+  },
+  {
+    "id": "27",
+    "name": "KIIRA CENTRAL/ JINJA"
+  },
+  {
+    "id": "28",
+    "name": "KIIRA EAST/ KAKIRA"
+  },
+  {
+    "id": "29",
+    "name": "KIIRA NORTH/ BUWENGE"
+  },
+  {
+    "id": "30",
+    "name": "MBALE"
+  },
+  {
+    "id": "31",
+    "name": "SIRONKO"
+  },
+  {
+    "id": "32",
+    "name": "MANAFWA"
+  },
+  {
+    "id": "33",
+    "name": "BULAMBULI"
+  },
+  {
+    "id": "34",
+    "name": "BUDUDA"
+  },
+  {
+    "id": "35",
+    "name": "TORORO"
+  },
+  {
+    "id": "36",
+    "name": "BUTALEJA"
+  },
+  {
+    "id": "37",
+    "name": "KIBUKU"
+  },
+  {
+    "id": "38",
+    "name": "BUSIA"
+  },
+  {
+    "id": "39",
+    "name": "BUDAKA"
+  },
+  {
+    "id": "40",
+    "name": "PALLISA"
+  },
+  {
+    "id": "41",
+    "name": "SOROTI"
+  },
+  {
+    "id": "42",
+    "name": "BUKEDEA"
+  },
+  {
+    "id": "43",
+    "name": "KATAKWI"
+  },
+  {
+    "id": "44",
+    "name": "KABERAMAIDO"
+  },
+  {
+    "id": "45",
+    "name": "SERERE"
+  },
+  {
+    "id": "46",
+    "name": "NGORA"
+  },
+  {
+    "id": "47",
+    "name": "AMURIA"
+  },
+  {
+    "id": "48",
+    "name": "KUMI"
+  },
+  {
+    "id": "49",
+    "name": "MOROTO"
+  },
+  {
+    "id": "50",
+    "name": "NAPAK"
+  },
+  {
+    "id": "51",
+    "name": "NAKAPIRIPIRIT"
+  },
+  {
+    "id": "52",
+    "name": "AMUDAT"
+  },
+  {
+    "id": "53",
+    "name": "KOTIDO"
+  },
+  {
+    "id": "54",
+    "name": "ABIM"
+  },
+  {
+    "id": "55",
+    "name": "KABONG"
+  },
+  {
+    "id": "56",
+    "name": "MOYO"
+  },
+  {
+    "id": "57",
+    "name": "ADJUMANI"
+  },
+  {
+    "id": "58",
+    "name": "YUMBE"
+  },
+  {
+    "id": "59",
+    "name": "ARUA"
+  },
+  {
+    "id": "60",
+    "name": "KOBOKO"
+  },
+  {
+    "id": "61",
+    "name": "ZOMBO"
+  },
+  {
+    "id": "62",
+    "name": "MARACHA"
+  },
+  {
+    "id": "63",
+    "name": "NEBBI"
+  },
+  {
+    "id": "64",
+    "name": "GULU"
+  },
+  {
+    "id": "65",
+    "name": "KITGUM"
+  },
+  {
+    "id": "66",
+    "name": "AGAGO"
+  },
+  {
+    "id": "67",
+    "name": "LAMWO"
+  },
+  {
+    "id": "68",
+    "name": "NWOYA"
+  },
+  {
+    "id": "69",
+    "name": "AMURU"
+  },
+  {
+    "id": "70",
+    "name": "OMORO"
+  },
+  {
+    "id": "71",
+    "name": "PADER"
+  },
+  {
+    "id": "72",
+    "name": "LIRA"
+  },
+  {
+    "id": "73",
+    "name": "APAC"
+  },
+  {
+    "id": "74",
+    "name": "OYAM"
+  },
+  {
+    "id": "75",
+    "name": "KOLE"
+  },
+  {
+    "id": "76",
+    "name": "DOKOLO"
+  },
+  {
+    "id": "77",
+    "name": "ALEBTONG"
+  },
+  {
+    "id": "78",
+    "name": "OTUKE"
+  },
+  {
+    "id": "79",
+    "name": "AMORLATAR"
+  },
+  {
+    "id": "80",
+    "name": "MPIGI"
+  },
+  {
+    "id": "81",
+    "name": "BUTAMBALA"
+  },
+  {
+    "id": "82",
+    "name": "GOMBA"
+  },
+  {
+    "id": "83",
+    "name": "MITYANA"
+  },
+  {
+    "id": "84",
+    "name": "MUBENDE"
+  },
+  {
+    "id": "85",
+    "name": "KIBOGA"
+  },
+  {
+    "id": "86",
+    "name": "KYANKWANZI"
+  },
+  {
+    "id": "87",
+    "name": "BUIKWE"
+  },
+  {
+    "id": "88",
+    "name": "BUVUMA"
+  },
+  {
+    "id": "89",
+    "name": "KAYUNGA"
+  },
+  {
+    "id": "90",
+    "name": "NJERU Division"
+  },
+  {
+    "id": "91",
+    "name": "HOIMA"
+  },
+  {
+    "id": "92",
+    "name": "BULISA"
+  },
+  {
+    "id": "93",
+    "name": "MASINDI"
+  },
+  {
+    "id": "94",
+    "name": "KIRYADONGO"
+  },
+  {
+    "id": "95",
+    "name": "KIBAALE"
+  },
+  {
+    "id": "96",
+    "name": "KAGADI"
+  },
+  {
+    "id": "97",
+    "name": "KAKUMIRO"
+  },
+  {
+    "id": "98",
+    "name": "KABAROLE"
+  },
+  {
+    "id": "99",
+    "name": "KAMWENGE"
+  },
+  {
+    "id": "100",
+    "name": "NTOROKO"
+  },
+  {
+    "id": "101",
+    "name": "BUNDIBUGYO"
+  },
+  {
+    "id": "102",
+    "name": "KYENJOJO"
+  },
+  {
+    "id": "103",
+    "name": "KYEGEGWA"
+  },
+  {
+    "id": "104",
+    "name": "MBARARA"
+  },
+  {
+    "id": "105",
+    "name": "IBANDA"
+  },
+  {
+    "id": "106",
+    "name": "NTUNGAMO"
+  },
+  {
+    "id": "107",
+    "name": "KIRUHURA"
+  },
+  {
+    "id": "108",
+    "name": "ISINGIRO"
+  },
+  {
+    "id": "109",
+    "name": "BUSHENYI"
+  },
+  {
+    "id": "110",
+    "name": "RUBIRIZI"
+  },
+  {
+    "id": "111",
+    "name": "MITOOMA"
+  },
+  {
+    "id": "112",
+    "name": "SHEEMA/ KIBINGO"
+  },
+  {
+    "id": "113",
+    "name": "BUHWEJU/ NSIIKA"
+  },
+  {
+    "id": "114",
+    "name": "KABALE"
+  },
+  {
+    "id": "115",
+    "name": "KANUNGU"
+  },
+  {
+    "id": "116",
+    "name": "RUKUNGIRI"
+  },
+  {
+    "id": "117",
+    "name": "KISORO"
+  },
+  {
+    "id": "118",
+    "name": "RUBANDA"
+  },
+  {
+    "id": "119",
+    "name": "MASAKA"
+  },
+  {
+    "id": "120",
+    "name": "LWENGO"
+  },
+  {
+    "id": "121",
+    "name": "KALUNGU"
+  },
+  {
+    "id": "122",
+    "name": "BUKOMANSIMBI"
+  },
+  {
+    "id": "123",
+    "name": "LYANTONDE"
+  },
+  {
+    "id": "124",
+    "name": "KALANGALA"
+  },
+  {
+    "id": "125",
+    "name": "RAKAI/ MUTUKULA"
+  },
+  {
+    "id": "126",
+    "name": "SSEMBABULE"
+  },
+  {
+    "id": "127",
+    "name": "LUWERO"
+  },
+  {
+    "id": "128",
+    "name": "NAKASEKE"
+  },
+  {
+    "id": "129",
+    "name": "NAKASONGOLA"
+  },
+  {
+    "id": "130",
+    "name": "KAPCHORWA"
+  },
+  {
+    "id": "131",
+    "name": "KWEEN"
+  },
+  {
+    "id": "132",
+    "name": "BUKWO"
+  },
+  {
+    "id": "133",
+    "name": "KASESE"
+  },
+  {
+    "id": "134",
+    "name": "HIMA DIVISION"
+  },
+  {
+    "id": "135",
+    "name": "BWEERA"
+  },
+  {
+    "id": "136",
+    "name": "KATWE/ KABATOORO"
+  }
+]
